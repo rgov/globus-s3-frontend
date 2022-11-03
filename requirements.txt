@@ -1,0 +1,5 @@
+cryptography
+fastapi
+globus-sdk
+httpx
+uvicorn[standard]
